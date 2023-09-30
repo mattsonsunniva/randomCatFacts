@@ -69,6 +69,3 @@ function startExecution() {
         pushRandomCatName(gitNames[index], token);
     })
 }
-
-//Start execution
-startExecution();
